@@ -7,4 +7,3 @@ unstructured[pdf]
 transformers
 sentence-transformers
 langchain-ollama
-python-magic-bin
